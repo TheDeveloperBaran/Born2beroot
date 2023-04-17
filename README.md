@@ -1,2 +1,2 @@
-# Born2beroot
-42-Cursus Born2beroot Project x subject.pdf + project guidelines included
+This project is about creating on your own virtual machine. Instructions and guideline is included in subject.pdf
+
